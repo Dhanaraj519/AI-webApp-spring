@@ -16,9 +16,9 @@
 
 This is a **full-stack AI-powered web application** integrating **three major AI features in one platform**:
 
-* **AI Chatbot** (GPT-powered conversational assistant)
-* **AI Image Generator** (DALL·E model)
-* **AI Recipe Generator** (dynamic recipe suggestions using GPT)
+* **AI Chatbot** 
+* **AI Image Generator** 
+* **AI Recipe Generator** 
 
 The frontend is built using **ReactJS**, and the backend uses **Spring Boot + Spring AI** to interact with **OpenAI APIs**.
 
@@ -137,9 +137,10 @@ This project was developed to learn real-world **AI integration, REST API commun
 
 ---
 
-##  **Contact**
+## 📩 Contact
 
-**Developer:** Panabaka Dhanaraj
-**Tech Stack:** Java • React • Spring Boot • AI Integration
-**Email: ** panabakadhanaraj@gmail.com
+**Developer:** Panabaka Dhanaraj  
+**Email:** panabakadhanraj@gmail.com  
+**Tech Stack:** Java · Spring Boot · Spring AI · ReactJS · OpenAI Integration  
+
 ---
