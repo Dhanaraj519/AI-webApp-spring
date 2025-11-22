@@ -1,4 +1,4 @@
-# AI-webApp-spring
+# AI-webApp-SpringBoot
 
 ### **Spring Boot + Spring AI + ReactJS +OpenAI (GPT + DALL·E)**
 
